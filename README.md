@@ -1,6 +1,6 @@
 # Parctiva UI (Kotlin, Android)
 
-Проект реализует UI из практической работы:
+Проект реализует UI:
 - экран входа;
 - экран выбора адреса на карте;
 - экран настроек.
@@ -40,18 +40,3 @@ chmod +x ./gradlew
 Готовый файл после успешной сборки:
 
 `app/build/outputs/apk/debug/app-debug.apk`
-
-## Архив для сдачи
-
-Рекомендуемый формат: `zip`.
-
-Пример команды из корня проекта:
-
-```bash
-cd ..
-zip -r kotlin-parctiva.zip kotlin-parctiva -x "kotlin-parctiva/.git/*" "kotlin-parctiva/.gradle/*" "kotlin-parctiva/**/build/*"
-```
-
-В архив должны входить:
-- исходный код проекта;
-- этот `README.md` с инструкцией по сборке.
