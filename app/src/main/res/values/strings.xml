@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parctiva UI</string>
+    <string name="login_title">Войти</string>
+    <string name="register_title">Зарегаться</string>
+    <string name="email_label">Твой email</string>
+    <string name="password_label">Твой пароль</string>
+    <string name="new_password_hint">Новый пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="separator_or">Или</string>
+    <string name="no_account">Нет аккаунта? Зарегистрируйся</string>
+    <string name="add_address">Добавить адрес</string>
+    <string name="settings_title">Настройки</string>
+    <string name="back">Назад</string>
+    <string name="open_settings">Открыть настройки</string>
+</resources>
